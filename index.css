@@ -4,7 +4,7 @@
     flex-direction: column;
 }
 header {
-    background-image: url(https://brchs.org/files/media/2017/04/BRCHS-blue-ridge-mountains.jpg);
+    background: url(https://brchs.org/files/media/2017/04/BRCHS-blue-ridge-mountains.jpg);
     
 }
 .middle {
