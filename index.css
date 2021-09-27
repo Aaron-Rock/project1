@@ -1,6 +1,12 @@
 .container {
     background-color: ghostwhite;
+    display: flex;
+    flex-direction: column;
 }
 header {
     background-image: url(https://brchs.org/files/media/2017/04/BRCHS-blue-ridge-mountains.jpg);
+    
+}
+.middle {
+    flex-grow: 1;
 }
