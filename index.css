@@ -2,9 +2,34 @@
     background-color: ghostwhite;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+    
+}
+.title {
+    display: flex;
+    font-size: 100px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    
+}
+span {
+    padding-right: 2%;
 }
 header {
-    background: url(https://brchs.org/files/media/2017/04/BRCHS-blue-ridge-mountains.jpg);
+    height: 200px;
+    margin-top: 2px;
+    background-size: cover;
+    background-color:#0074D9;
+    border-radius: 5px;
+}
+footer {
+    background-color: lightskyblue;
+   
+    margin-bottom: 2px;
     
 }
 .middle {
