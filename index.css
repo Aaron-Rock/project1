@@ -67,6 +67,44 @@ footer {
 .pictures {
     align-self: center;
 }
+
+.second {
+    margin-top: 10%;
+    display: flex;
+    height: 700px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+        
+}
+.second-text {
+    display: inline-flex;
+    font-family: sans-serif;
+    text-align: center;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    font-style: italic;
+    flex-direction: column;
+}
+button {
+    background-color: white;
+    margin-top: 10px;
+    
+}
+.second-pics {
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 50%;
+    justify-content: space-evenly;
+    position: relative;
+    top: 25px;
+    
+}
 .group-rides {
     display: flex;
     margin-top: 200px;
