@@ -9,49 +9,57 @@
     display: flex;
     font-size: 100px;
     height: 200px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;
     font-weight: bold;
+    font-style: italic;
     color: aliceblue;
-    align-items: center;
-    justify-content: center;
+    padding-left: 100px;
+    padding-top: 50px;
+    text-shadow: 2px 2px 5px black;
 }
 
 .navs {
     
     padding: 0;
     margin: 0;
-    background-color: lightsteelblue;
+    position: relative;
+    margin-top: -24px;
     border-radius: 5px;
     display: flex;
     flex-direction: row;
     justify-content:space-evenly;
 }
 .navs > a {
-    color: white;
+    color: whitesmoke;
     padding: 10px;
     display: inline-block;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;
     font-weight: bold;
     font-size: 1.5em;
     text-decoration: none;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
   }
   
 .navs > a:hover {
-    background-color: gray;
+    background-color:rgba(245, 245, 245, 0.287);
   }
 
 span {
     padding-right: 2%;
 }
 header {
-    height: 200px;
+    height: 700px;
     margin-top: 2px;
     background-size: cover;
-    background-color:#0074D9;
-    border-radius: 5px;
+    background-image: url("https://images.unsplash.com/photo-1534787238916-9ba6764efd4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2662&q=80");
+    background-size: cover;
+    background-position:60% 90%;
+    image-rendering:optimizeQuality;
+   
 }
 footer {
-    background-color: lightskyblue;
+    
    
     margin-bottom: 2px;
     
@@ -59,10 +67,29 @@ footer {
 .pictures {
     align-self: center;
 }
-.middle {
-    align-self: center;
-    color: #0074D9;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+.group-rides {
+    display: flex;
+    margin-top: 200px;
+    padding-top: 200px;
+    border: black 3px solid;
     flex-grow: 1;
+    height: 300px;
+    width: 100%;
+    
+}
+.groups {
+    bottom: 40%;
+    left: 20%;
+    position: relative;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.group {
+    position: relative;
+    width: 70vh;
+    height: 165%;
+    
+    left: 806px;
+    top: -197px;
 }
