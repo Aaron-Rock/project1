@@ -1,0 +1,14 @@
+.about {
+    display: flex;
+    margin-top: 20px;
+    border: red 1px solid;
+    width: 100%;
+    height: 600px;
+    justify-content: center;
+}
+.centering-about {
+    display: flex;
+    width: 50%;
+    height: 200px;
+    border: 2px blue solid;
+}
