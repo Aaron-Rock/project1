@@ -128,4 +128,27 @@
 
 .rlist {
     margin: 40px;
-}
+  }
+
+  @media only screen and (max-width: 600px) {
+    .month {
+      width: 100%;
+    }
+    .month > p {
+      font-size: 30px;
+    }
+    .weekdays {
+      width: 100%;
+    }
+    .weekdays > span {
+      font-size: 11px;
+    }
+    .days {
+      width: 100%;
+    }
+    .days li {
+      font-size: 10px;
+      padding: 0px;
+      margin-left: 0;
+    }
+  }
