@@ -238,7 +238,7 @@ a {
     .second{
         
         flex-direction: column;
-        height: 3000px;
+        
         height:fit-content;
         align-items: center;
         justify-content: space-evenly;
