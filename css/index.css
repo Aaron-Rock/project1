@@ -240,6 +240,7 @@ a {
         flex-direction: column;
         height: 1200px;
         height:fit-content;
+        align-items: center;
     }
     .second-text {
         font-size: 30px;
