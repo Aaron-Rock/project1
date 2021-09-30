@@ -236,7 +236,7 @@ a {
         height:fit-content;
     }
     .second-text {
-        font-size: 10px;
+        font-size: 30px;
     }
 
     .header {
@@ -246,6 +246,9 @@ a {
 
     .navs {
         justify-content:center;
+    }
+    .title {
+        font-size: 50px;
     }
     
 }
