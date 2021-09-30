@@ -227,12 +227,6 @@ a {
     color:grey;
 }
 
-@media only screen and (max-width: 200px) {
-    .second {
-        background-color: red;
-    }
-}
-
 @media only screen and (max-width: 600px) {
     
     .second{
@@ -260,6 +254,9 @@ a {
 
         font-size: 50px;
         align-self: flex-end;
+    }
+    .bike-rental {
+        flex-direction: column;
     }
     .button {
         width: 30px;
