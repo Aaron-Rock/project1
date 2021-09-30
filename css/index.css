@@ -56,7 +56,7 @@ header {
     background-size: cover;
     background-image: url(/images/header.jpeg);
     background-size: cover;
-    background-position:60% 90%;
+    background-position:60% 70%;
     image-rendering:optimizeQuality;
    
 }
@@ -227,6 +227,17 @@ a {
     color:grey;
 }
 
+@media only screen and (max-width: 1700px) {
+    .second{
+        
+        flex-direction: column;
+        
+        height:1900px;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+}
+
 @media only screen and (max-width: 600px) {
     
     .second{
@@ -241,25 +252,42 @@ a {
         font-size: 60px;
     }
 
-    .header {
-        font-size: small;
-        width: 100%;
-        background-position:10% 70%;
-    }
-
     .navs {
         justify-content:center;
+
     }
     .title {
-
+        margin-left: -80px;
         font-size: 50px;
         align-self: flex-end;
     }
+    .third {
+        flex-direction: column;
+        height: 1200px;
+        margin-bottom: 40px;
+    }
     .bike-rental {
         flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+    .rental-pics {
+        margin-top: 130px;
+        margin-bottom: 40px;
+        flex-direction: column;
+        align-items: center;
     }
     .button {
         width: 30px;
+    }
+    .navs {
+        margin-top: -40px;
+    }
+    .navs > a {
+        font-size: 20px;
+    }
+    .container header {
+        background-position: 80% 10%;
     }
     
 }
