@@ -6,7 +6,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-image: url(images/blurred-riders.jpeg);
+    background-image: url(/images/blurred-riders.jpeg);
     background-position: 50% 80%;
 }
 

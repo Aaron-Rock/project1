@@ -6,7 +6,7 @@
     justify-content: center;
     background-position:52% 50%;
     
-    background-image: url(images/background-about.jpeg);
+    background-image: url(/images/background-about.jpeg);
 }
 .centering-about {
     display: flex;

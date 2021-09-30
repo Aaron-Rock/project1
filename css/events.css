@@ -76,7 +76,7 @@
       margin-top: 150px;
       flex-direction: row;
       justify-content: space-evenly;
-      background-image: url(images/peloton-picture.jpeg);
+      background-image: url(/images/peloton-picture.jpeg);
       background-position:52% 50%;
       align-items: center;
   }
