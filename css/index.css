@@ -241,6 +241,7 @@ a {
         height: 1200px;
         height:fit-content;
         align-items: center;
+        justify-content: space-evenly;
     }
     .second-text {
         font-size: 30px;
@@ -258,6 +259,9 @@ a {
     .title {
         font-size: 50px;
         align-self: flex-start;
+    }
+    .button {
+        width: 30px;
     }
     
 }
