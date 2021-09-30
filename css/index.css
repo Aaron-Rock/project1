@@ -235,6 +235,14 @@ a {
         height: 1200px;
         height:fit-content;
     }
+
+    .header {
+        font-size: small;
+    }
+
+    .navs {
+        justify-content:center;
+    }
     
 }
 
