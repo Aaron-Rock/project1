@@ -16,7 +16,9 @@
     padding-left: 100px;
     padding-top: 50px;
     text-shadow: 2px 2px 5px black;
-}
+} 
+
+
 
 .navs {
     
@@ -58,6 +60,7 @@ header {
     image-rendering:optimizeQuality;
    
 }
+
 
 .pictures {
     align-self: center;
@@ -224,6 +227,15 @@ a {
     color:grey;
 }
 
-
+@media only screen and (max-width: 600px) {
+    
+    .second{
+        
+        flex-direction: column;
+        height: 1200px;
+        height:fit-content;
+    }
+    
+}
 
 
