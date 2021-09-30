@@ -45,3 +45,18 @@
     font-family: serif;
     font-size: larger;
 }
+
+@media only screen and (max-width: 600px) {
+    .about {
+        height: 1000px;
+        background-position: 51.1% 50%;
+    }
+    .centering-about {
+        height: 750px;
+        width: 300px;
+    }
+    .message p {
+        font-size: 40px;
+    }
+
+}
