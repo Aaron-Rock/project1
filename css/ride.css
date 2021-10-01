@@ -63,14 +63,14 @@ p {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 1200px;
+        height: 1000px;
         margin-top: 300px;
     }
     .road-text {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 1200px;
+        height: 300px;
     }
     .mtn {
         flex-direction: column;
