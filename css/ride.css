@@ -53,3 +53,38 @@ p {
     font-style: italic;
     color: rgba(0, 0, 0, 0.475);
 }
+
+@media only screen and (max-width: 600px) {
+    .road {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 1200px;
+    }
+    .road-text {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 1200px;
+    }
+    .mtn {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 1200px;
+    }
+    .mtn-text {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 1200px;
+    }
+    .map-box {
+        margin-top: 200px;
+        
+    }
+    img {
+        height: 40%;
+        width: 50%;
+    }
+}
