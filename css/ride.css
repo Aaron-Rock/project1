@@ -57,7 +57,7 @@ p {
 @media only screen and (max-width: 600px) {
     .body {
         height: 4000px;
-        justify-content: space-around;
+        justify-content: flex-end;
     }
     .road {
         flex-direction: column;
