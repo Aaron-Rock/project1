@@ -88,7 +88,7 @@ p {
         
     }
     img {
-        height: 40%;
-        width: 50%;
+        height: 100px;
+        width: 100px;
     }
 }
