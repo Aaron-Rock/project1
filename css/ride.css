@@ -64,7 +64,7 @@ p {
         justify-content: center;
         align-items: center;
         height: 100px;
-        margin-bottom: -300px;
+        margin-top: 300px;
     }
     .road-text {
         flex-direction: column;
