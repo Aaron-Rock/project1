@@ -48,8 +48,7 @@
   .days li {
     list-style-type: none;
     display: inline-block;
-    width: 13.6%;
-    
+    width: 13.6%; 
     text-align: center;
     margin-bottom: 20px;
     margin-top: 20px;
@@ -141,14 +140,50 @@
       width: 100%;
     }
     .weekdays > span {
-      font-size: 11px;
+      font-size: 10px;
     }
     .days {
       width: 100%;
+      margin-right: 0px;
+      padding: 0px;
+    }
+    .days ul {
+      margin: 0px;
     }
     .days li {
       font-size: 10px;
-      padding: 0px;
-      margin-left: 0;
+    }
+    .li {
+      margin: 0px;
+    }
+    .details {
+      height: 900px;
+    }
+    .road-det {
+      width: 150px;
+      height: 600px;
+      justify-content: flex-start;
+      align-items: flex-start;
+    }
+    .road-det ul li {
+      margin-left: -3px;;
+    }
+    .revent {
+      font-size: 18px;
+      margin: 2px;
+    }
+    .road-dates {
+      font-size: 9px;
+    }
+    .mtn-det {
+      width: 150px;
+      height: 600px;
+    }
+    .mtn-det ul li {
+      margin-left: -3px;;
+    }
+    .mevent {
+      font-size: 18px;
+      margin: 2px;
     }
   }
