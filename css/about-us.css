@@ -52,11 +52,11 @@
         background-position: 51.1% 50%;
     }
     .centering-about {
-        height: 750px;
-        width: 300px;
+        height:810px;
+        width: 275px;
     }
     .message p {
-        font-size: 40px;
+        font-size: 30px;
     }
 
 }
