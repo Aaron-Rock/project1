@@ -97,5 +97,38 @@ h1 {
     font-style: italic;
     text-shadow: 1px 0px 0px rgb(255, 89, 0);
 }
+
+@media only screen and (max-width: 600px) {
+    .member-box {
+        flex-direction: column;
+        height: 1400px;
+    }
+    .perks {
+        height: 25%;
+        width: 55%;
+        align-items: center;
+        justify-content: center;
+    }
+    .perks h3 {
+        font-size: 20px;
+        margin-left: 15px;
+    }
+    .perks p {
+        margin-top: -20px;
+        font-size: 14px;
+    }
+    .form {
+        width: 60%;
+        margin: 20px;
+    }
+    .fees {
+        height: 18%;
+        width: 60%;
+    }
+    .fees h1 {
+        font-size: 30px;
+    }
+
+}
   
   
