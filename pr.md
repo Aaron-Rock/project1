@@ -1,0 +1,3 @@
+Peer Review: Aaron Rock
+
+I like the layout of your website. Every page has a focus that you don't stray from. I like the style of your site too, and it is all consistant. It also seems to satisfy all of the requirements. The only real critisism I have is that the primary color choice used for the site is a bit too bright and blends in with the font color making naviagting certain menues somewhat confusing for me. Also, some of the pictures do not display which is probably more of an issue on my end. All in all, you did a good job!
