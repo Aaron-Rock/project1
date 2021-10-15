@@ -1,0 +1,19 @@
+1. What did you like about this website?
+	x. I loved the use of flex boxes and displays to create the card for bikes on sale, as well as the member sign up form, which I think was very well implemented
+2. Describe one significant difference between your own P1 site and this person's. E.g.
+2a. Which has a better user experience (and why)?
+	x. I personally think that this website has a better user experience, as it has more detailed information pertaining to the subject (biking)
+2b. Which codebase do you think would be more maintainable (and why)?
+	x. I think mine might be slightly more maintainable, as I used CSS to create a universal theme
+3. Is the code well-structured within files, and well-organized between files and directories?
+	x. Yes
+3a. if not, suggest some specific improvements
+	x. N/A
+4. Did you find any other issues? If so, briefly enumerate them.
+	x. Changing the color scheme slightly might be beneficial, as the off-white on white with black borders was a bit straining on the eyes.
+4a. were semantically appropriate elements selected
+	x. Yes
+4b. is the CSS refactored to limit duplication?
+	x. Yes
+5. Do you have any other constructive comments for the author?
+	x. Overall I loved your website, The information was interesting, and the “ads” for bikes imbedded into the page was a really nice authentic touch! Great job!
